@@ -1,5 +1,5 @@
 # PNG
-# Philippine Number Generator
+# Phone Number Generator
 
 # REQUIRMENTS
 Python 3.12.2
