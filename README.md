@@ -7,6 +7,7 @@ https://www.python.org/downloads/windows/
 
 # INSTALLATION
 git clone https://github.com/0x3c62723e/PNG.git
+
 cd PNG
 
 # USAGE
